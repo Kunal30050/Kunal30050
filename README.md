@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Kunal Vedpathak.<br>AI & Data Science undergrad who actually builds things instead of just talking about them.<br>I work with C++, Python, JavaScript, React, and ML models, focusing on real world projects like fraud detection, fake news analysis, and predictive systems.<br>Currently grinding DSA, Machine Learning and applied AI, aiming for systems that scale and make sense not demo trash.<br><br>🚀 Learning fast.<br>🧠 Building consistently.<br>📈 Optimizing for impact, not certificates.
 
 
