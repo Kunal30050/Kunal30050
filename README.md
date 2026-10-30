@@ -74,15 +74,16 @@ Currently deepening my expertise in **LLM Engineering, Agentic Systems, RAG, MLO
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunal30050&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kunal30050&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kunal30050&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Kunal30050&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal30050&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kunal30050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 ## ✍️ Developer Quote
@@ -102,5 +103,3 @@ Currently deepening my expertise in **LLM Engineering, Agentic Systems, RAG, MLO
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunal30050&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
