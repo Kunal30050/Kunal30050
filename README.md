@@ -1,5 +1,15 @@
 #  About Me:
-Hi, I’m Kunal Vedpathak.<br>AI & Data Science undergrad who actually builds things instead of just talking about them.<br>I work with C++, Python, JavaScript, React, and ML models, focusing on real world projects like fraud detection, fake news analysis, and predictive systems.<br>Currently grinding DSA, Machine Learning and applied AI, aiming for systems that scale and make sense not demo trash.<br><br>🚀 Learning fast.<br>🧠 Building consistently.<br>📈 Optimizing for impact, not certificates.
+Hi, I'm Kunal Vedpathak.
+AI & Data Science undergraduate passionate about building intelligent systems that solve real-world problems.
+
+I work across **Agentic AI, Generative AI, Machine Learning, and Full-Stack Development**, with hands-on experience in Python, C++, JavaScript, React, LangChain, LangGraph, MCP, and RAG architectures.
+
+I've been building projects involving AI-powered ticket automation, healthcare prior authorization workflows, fraud detection, and intelligent information retrieval — focusing on system design, workflow orchestration, and practical implementation.
+
+Currently deepening my expertise in **LLM Engineering, Agentic Systems, RAG, MLOps, and scalable AI architectures.**
+🚀 Building beyond tutorials.
+🧠 Learning by engineering.
+⚙️ Turning AI concepts into working systems.
 
 
 # 💻 Tech Stack:
