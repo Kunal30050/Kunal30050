@@ -97,9 +97,3 @@ Currently deepening my expertise in **LLM Engineering, Agentic Systems, RAG, MLO
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Kunal30050&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kunal30050&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
