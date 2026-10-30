@@ -73,18 +73,34 @@ Currently deepening my expertise in **LLM Engineering, Agentic Systems, RAG, MLO
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kunal30050&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kunal30050&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal30050&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Analytics
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kunal30050&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal30050&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kunal30050&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal30050&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" />
+</p>
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+## 🏆 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kunal30050&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kunal30050&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunal30050&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
